@@ -15,7 +15,7 @@ Meta.SpecificDockerImage=
 Meta.DockerRequired=False
 Meta.ContainerPolicy=SupportedOnLinux, SupportedOnWindows
 Meta.ContainerPolicyReason=
-Meta.ExtraSetupStepsURI=https://google.de
+Meta.ExtraSetupStepsURI=https://discourse.cubecoders.com/docs?topic=3790?utm_source=ampcreate&utm_content=ats-ets2
 Meta.Prerequsites=[]
 Meta.ExtraContainerPackages=[]
 Meta.ConfigReleaseState=NotSpecified
